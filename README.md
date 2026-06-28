@@ -1,6 +1,6 @@
 ****************************************************************************************************************************************************************
 General ([Shared_GatewaySettings.bin](https://github.com/ctuais/Cable-modem-Arris-Motorola-SBG6782-SBG8582/blob/9ff28528f9105f4c937690e1a04458fff1c5adda/Shared_GatewaySettings.bin)):
-* Router IP: [192.168.10.2](192.168.10.2)
+* Router IP: [192.168.10.2](http://192.168.10.2)
 * Gateway IP: 192.168.10.1
 * Login: admin / Motorola
 * WAN DNS: 192.168.10.30 (local pi-hole)
