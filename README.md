@@ -7,7 +7,7 @@ General ([Shared_GatewaySettings.bin](https://github.com/ctuais/Cable-modem-Arri
 * Login: admin / Motorola
 * WAN DNS: 192.168.10.30 (local pi-hole)
 * SSID: Motorola / Motorola 5G
-* Cliente/Cliente: 192.168.10.10 (192.168.10.X - !192.168.10.2)
+* Cliente: 192.168.10.10 (192.168.10.X - !192.168.10.2)
 ****************************************************************************************************************************************************************
 
 English:
@@ -42,6 +42,6 @@ Login (usuario / contraseña)
 Energy Efficient Ethernet (si notas problemas en las conexiones Ethernet)
 Basic Setup: WAN para establecer las IP de los servidores DNS.
 
-Si quieres coenctarte por UART ![UART](https://github.com/ctuais/Cable-modem-Arris-Motorola-SBG6782-SBG8582/blob/9ff28528f9105f4c937690e1a04458fff1c5adda/UART%20Pinout%20-%20Cable%20Modem%20Arris%20Motorola%20SBG6782%20-%20SBG6582.jpg)
+Si quieres conectarte por UART ![UART](https://github.com/ctuais/Cable-modem-Arris-Motorola-SBG6782-SBG8582/blob/9ff28528f9105f4c937690e1a04458fff1c5adda/UART%20Pinout%20-%20Cable%20Modem%20Arris%20Motorola%20SBG6782%20-%20SBG6582.jpg)
 
 ****************************************************************************************************************************************************************
